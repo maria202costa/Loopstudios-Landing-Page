@@ -1,0 +1,16 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "![Design preview for the Loopstudios landing page coding challenge](preview.jpg)",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "comp": "sass style.scss style.css",
+    "watch": "sass --watch style.scss style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.86.3"
+  }
+}
